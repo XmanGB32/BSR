@@ -1,0 +1,2 @@
+# BSR
+Billiard Statistcs Registry
